@@ -1,7 +1,7 @@
 {
-  "name": "apaportal",
+  "name": "Project Description",
   "author": "Anthony Price",
-  "description": "APA Portal - New Creation",
+  "description": "New Creation",
   "scripts": {
     "start": "concurrently \"npm run tsc:w\" \"npm run lite\" ",
     "tsc": "tsc",
